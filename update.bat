@@ -1,0 +1,1 @@
+bash -c "cd D:\CODE\Github\i10; ./update.sh;"

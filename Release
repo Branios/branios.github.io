@@ -1,0 +1,8 @@
+Origin: Brandios-i10 tool
+Label: Brandios-i10 tool
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Brandios-i10 tool 10.x - 14.0 & 14.8.x & Checkra1n Jailbreaks & Unc0ver
